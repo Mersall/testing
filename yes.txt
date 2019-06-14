@@ -1,0 +1,6 @@
+mark johansoon waffel iron 90  2
+mark johansoon blender 200 3 
+mark johansoon knif 10  7
+nikata smith  waffel iron 90  2
+nikata smith blender 100 3 
+nikata smith  pot 10  7
